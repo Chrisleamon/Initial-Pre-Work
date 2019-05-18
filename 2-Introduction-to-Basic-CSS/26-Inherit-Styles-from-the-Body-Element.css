@@ -1,0 +1,15 @@
+/*I learned that any style changes that are applied to the body will be inherited by all elements in that body.*/
+
+
+
+
+<style >
+body {
+    background-color: black;
+    color: green;
+    font-family: monospace;
+}
+
+</style >
+
+<h1 > Hello World</h1 >

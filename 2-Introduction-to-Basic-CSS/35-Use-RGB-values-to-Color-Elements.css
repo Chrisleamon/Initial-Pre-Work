@@ -1,0 +1,11 @@
+/*You can effect the same range of colors by using the RGB format. three separate numbers that are 0 to 255*/
+
+
+
+
+<style >
+body {
+    background-color: rgb( 0, 0, 0);
+}
+
+</style >

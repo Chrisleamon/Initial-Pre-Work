@@ -1,0 +1,22 @@
+/*I learned that when multiple classes for the same thing are applied to the same element, it is the most recent class or the one closer to the bottom of the style sheet that will be used.*/
+
+
+
+
+<style >
+body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+}
+
+.pink-text {
+    color: pink;
+}
+
+.blue-text {
+    color: blue;
+}
+
+</style >
+<h1 class="pink-text blue-text" > Hello World!</h1 >
