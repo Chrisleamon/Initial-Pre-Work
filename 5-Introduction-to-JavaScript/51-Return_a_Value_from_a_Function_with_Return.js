@@ -1,0 +1,19 @@
+// I learned how to write and use a function for a math operation.
+
+
+
+
+// Example
+function minusSeven(num) {
+    return num - 7;
+}
+
+// Only change code below this line
+function timesFive(num) {
+    return num * 5;
+}
+
+console.log(timesFive(5));
+
+
+console.log(minusSeven(10));
